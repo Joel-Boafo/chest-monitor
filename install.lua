@@ -1,9 +1,7 @@
--- URLs voor de scripts
-local chestMonitorUrl = "https://raw.githubusercontent.com/<username>/<repository>/main/chest_monitor.lua"
+local chestMonitorUrl = "https://raw.githubusercontent.com/Joel-Boafo/https://github.com/Joel-Boafo/chest-monitor/main/chest_monitor.lua"
 local chestMonitorFile = "chest_monitor.lua"
 local startupFile = "startup.lua"
 
--- Functie om een bestand te downloaden
 local function download(url, filename)
     local response = http.get(url)
     if response then
