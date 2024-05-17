@@ -1,4 +1,4 @@
-local chestMonitorUrl = "https://raw.githubusercontent.com/Joel-Boafo/chest-monitor/blob/main/chest_monitor.lua"
+local chestMonitorUrl = "https://raw.githubusercontent.com/Joel-Boafo/chest-monitor/main/chest_monitor.lua"
 local chestMonitorFile = "chest_monitor.lua"
 local startupFile = "startup.lua"
 
